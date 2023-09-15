@@ -1,3 +1,14 @@
+A fork of the [Terraform Provider Kustomize](https://github.com/kbst/terraform-provider-kustomization) which allows configuring the provider with common values found in the Terraform providers Helm, Kubernetes, and others.
+
+- host
+- token
+- cluster_ca_certificate
+- exec
+  - api_version
+  - command
+  - args
+  - env
+
 <p align="center">
  <img src="./assets/favicon.png" alt="Kubestack, The Open Source Gitops Framework" width="25%" height="25%" />
 </p>
